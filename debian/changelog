@@ -1,0 +1,5 @@
+python-django-picklefield (0.2.0) unstable; urgency=low
+
+  * Initial packaging
+
+ -- Joe Stump <joe@joestump.net>  Wed, 18 Apr 2012 17:29:21 +0000
